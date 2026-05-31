@@ -5,12 +5,12 @@ A web-based score tracking system for Taiko tournaments. Create tournaments, tra
 All without a database!\
 <br>
 
-🌐 [**Live Demo**](https://www.danieleborghi.com/taikoscore/) (*multi-device sync & cloud saves enabled*)
+🌐 [**Live Demo**](https://www.danieleborghi.com/taikoscore/) (*sync & cloud saves enabled*)
 
 📸 [View all screenshots](#-screenshots)  
 <br>
 
-## 🥁🥁⋆ Features
+## 🥁🥁 Features
 
 - **No login required** - just a 6-digit code to join
 - **Per-player scoring rules** – handicap your friends or adjust difficulty values individually
@@ -19,7 +19,7 @@ All without a database!\
 - **Mobile friendly** – works on phones and tablets
 - **No database** – everything stored as JSON files
 
-## 🥢🥢⋆ Quick Start
+## 🥢🥢 Quick Start
 
 ### Option 1: Just the HTML (local storage only)
 
@@ -35,7 +35,7 @@ Open `index.html` directly in your browser. Everything saves to your browser's l
 - PHP 7.0+ (only needed for backend)
 - The data/ folder must be writable by the web server
 
-## 🥁🥢⋆ How to Use
+## 🥁🥢 How to Use
 
 ### Creating a tournament
 1. Enter a tournament name
@@ -69,7 +69,7 @@ All requests are POST with JSON body.
 
 **Highly recommended:** leave .htaccess file inside the /data/ folder with "deny from all" to prevent direct access to the JSON files.
 
-## 📸⋆ Screenshots
+## 📸 Screenshots
 
 | | | | |
 |-|-|-|-|
