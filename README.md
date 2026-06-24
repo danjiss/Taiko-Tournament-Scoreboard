@@ -5,7 +5,7 @@ A web-based score tracking system for Taiko tournaments. Create tournaments, tra
 All without a database!\
 <br>
 
-🌐 [**Live Demo**](https://www.danieleborghi.com/taikoscore/) (*sync & cloud saves enabled*)
+🌐 [**Live Demo**](https://www.danieleborghi.com/tools/taikoscore/) (*sync & cloud saves enabled*)
 
 📸 [View all screenshots](#-screenshots)  
 <br>
